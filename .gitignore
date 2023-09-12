@@ -1,3 +1,8 @@
+# Config files
+.wp-env.json
+php.ini
+/test
+
 # Build
 /lib/docker-compose.yml
 
