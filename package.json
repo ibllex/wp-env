@@ -1,8 +1,8 @@
 {
 	"name": "@ibllex/wp-env",
-	"version": "1.0.0",
+	"version": "8.10.0",
 	"description": "A zero-config, self contained local WordPress environment for development and testing.",
-	"author": "The WordPress Contributors & iBllex",
+	"author": "The WordPress Contributors",
 	"license": "GPL-2.0-or-later",
 	"keywords": [
 		"wordpress",
@@ -10,13 +10,14 @@
 		"environment",
 		"docker"
 	],
-	"homepage": "https://github.com/ibllex/wp-env/",
+	"homepage": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/env#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ibllex/wp-env.git"
+		"url": "git+https://github.com/WordPress/gutenberg.git",
+		"directory": "packages/env"
 	},
 	"bugs": {
-		"url": "https://github.com/ibllex/wp-env/issues"
+		"url": "https://github.com/WordPress/gutenberg/issues"
 	},
 	"directories": {
 		"lib": "lib",
